@@ -22,3 +22,5 @@ A.I project that detects facial expressions and recommends music based on the de
 - https://www.kaggle.com/datasets/msambare/fer2013
 - https://www.kaggle.com/datasets/apollo2506/facial-recognition-dataset
 - https://www.kaggle.com/datasets/musicblogger/spotify-music-data-to-identify-the-moods
+
+**Run app in 'GUI.py'**
