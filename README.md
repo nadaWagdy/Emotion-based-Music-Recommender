@@ -17,3 +17,8 @@ A.I project that detects facial expressions and recommends music based on the de
 
 - the second part done using deepface package in real time using camera
     - Find it in `videoEmotion.py`
+
+**Used DataSets**
+- https://www.kaggle.com/datasets/msambare/fer2013
+- https://www.kaggle.com/datasets/apollo2506/facial-recognition-dataset
+- https://www.kaggle.com/datasets/musicblogger/spotify-music-data-to-identify-the-moods
